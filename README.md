@@ -2,11 +2,11 @@
 <h1 align="center">Hi , I'm MasterMC5801 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=6000&pause=1000&color=0BFF00&center=true&vCenter=true&width=820&height=120&lines=I+don%27t+code." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=6000&pause=1000&color=e4bf7a&center=true&vCenter=true&width=820&height=120&lines=I+don%27t+code." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mastermc5801&color=blue&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=mastermc5801&color=e4bf7a&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
 <hr/>
@@ -31,6 +31,10 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=mastermc5801&show_icons=true&count_private=true&theme=onedark&hide_border=true&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mastermc5801&layout=compact&hide_border=true&theme=onedark&bg_color=00000000&langs_count=6">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=nukecraft5419&theme=onedark&hide_border=true&background=FFFFFF00">
+</p>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mastermc5801&theme=onedark"/>
 </p>
 
 <h2 align="center">📚 My Skills</h2>
