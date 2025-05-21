@@ -20,8 +20,8 @@
    *  🌱 `I’m currently learning`: **To code**,
    * ❤️ `I love`: **To game**  ,
    * 💻 `Favorite lang`: **The easyest one**
-   * 🌐 `Owner on`:<a href="https://boatosta.net/"><img alt="Boatosta" src="https://custom-icon-badges.demolab.com/badge/Boatosta-e98620.svg?logo=boatosta&logoColor=white"></a>
-<a href="https://modrinth.com/modpack/lifemc/"><img alt="LifeMC" src="https://custom-icon-badges.demolab.com/badge/Boatosta-e98620.svg?logo=lifemc_logo&logoColor=white"></a>
+   * 🌐 `Owner on`:<a href="https://boatosta.net/"><img alt="Boatosta" src="https://custom-icon-badges.demolab.com/badge/Boatosta-c2c2c2.svg?logo=boatosta&logoColor=white"></a>
+<a href="https://modrinth.com/modpack/lifemc/"><img alt="LifeMC" src="https://custom-icon-badges.demolab.com/badge/LifeMC-c2c2c2.svg?logo=lifemc_logo&logoColor=white"></a>
  
 <br/>
 
