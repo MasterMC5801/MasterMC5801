@@ -65,9 +65,9 @@
 <h2 align="center">📝 Credits</h2>
 
 <p align="center">
-<a href="https://github.com/Sammwyy" target="_blank" align="center">Sammwyy</a>
+<a href="https://github.com/Sammwyy"><img alt="Sammwyy" src="https://custom-icon-badges.demolab.com/badge/Sammwyy-e4bf7a.svg?logo=sammwy&logoColor=white"></a>
 <br>
-<a href="https://github.com/nukecraft5419" target="_blank" align="center">Nukecraft5419</a>
+<a href="https://github.com/nukecraft5419"><img alt="Nukecraft5419" src="https://custom-icon-badges.demolab.com/badge/Nukecraft5419-e4bf7a.svg?logo=nukecraft5419&logoColor=white"></a>
 <br>
-<a href="https://github.com/antonkomarev" target="_blank" align="center">Anton Komarev</a>
+<a href="https://github.com/antonkomarev"><img alt="Anton Komarev" src="https://custom-icon-badges.demolab.com/badge/Anton Komarev-e4bf7a.svg?logo=antonkomarev&logoColor=white"></a>
 </p>
