@@ -20,8 +20,9 @@
    *  🌱 `I’m currently learning`: **To code**,
    * ❤️ `I love`: **To game**  ,
    * 💻 `Favorite lang`: **The easyest one**
+   * 🌐 `Owner on`: **Boatosta.net**
 
-
+ <a href="https://boatosta.net/"><img alt="Boatosta" src="https://img.shields.io/badge/Boatosta-e98620.svg?style"></a>
  
 <br/>
 
