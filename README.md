@@ -18,7 +18,7 @@
    * 👂 `My name is`: **MasterMC5801**,
    * ⚡ `I'm`: **24 years old**,
    *  🌱 `I’m currently learning`: **To code**,
-   * ❤️ `I love`: **To game**  ,
+   * ❤️ `I love`: **To game**  ,  **Anime**
    * 💻 `Favorite lang`: **The easyest one**
    * 🌐 `Owner of`: </a><a href="https://modrinth.com/modpack/lifemc/"><img alt="LifeMC" src="https://custom-icon-badges.demolab.com/badge/LifeMC-c2c2c2.svg?logo=lifemc_logo&logoColor=white"></a>
  
