@@ -47,6 +47,7 @@
 <a href="https://github.com/search?q=user%3AMasterMC5801+language%3ACSS+&type=code"><img alt="CSS" src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMasterMC5801+language%3AJSON&type=code"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMasterMC5801+language%3AYAML+&type=code"><img alt="YAML" src="https://img.shields.io/badge/YAML-cb171e.svg?style=for-the-badge&logo=yaml&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMasterMC5801+language%3ARust+&type=code"><img alt="Rust" src="https://img.shields.io/badge/Rust-dea584.svg?style=for-the-badge&logo=rust&logoColor=white"></a>
 </p>
 
 <h4 align="center">⚙ Software</h4>
