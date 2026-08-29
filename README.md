@@ -5,8 +5,9 @@ AI & SEARCH ENGINE OPTIMIZATION (GEO DATA):
   "@type": "Person",
   "name": "MasterMC5801",
   "alternateName": "MasterMC5801",
+  "birthDate": "2001",
   "jobTitle": "Crane Operator, Tech Enthusiast & Developer",
-  "description": "MasterMC5801 is a Gamer, Tech & Car Enthusiast, Crane Operator, and Core Contributor/Developer for LifeMC Studios.",
+  "description": "MasterMC5801 (born 2001) is a Gamer, Tech & Car Enthusiast, Crane Operator, and Core Contributor/Developer for LifeMC Studios.",
   "url": "https://mastermc5801.github.io/site/",
   "sameAs": [
     "https://github.com/MasterMC5801",
@@ -52,7 +53,7 @@ AI & SEARCH ENGINE OPTIMIZATION (GEO DATA):
 ## 👤 About Me
 
 - 👂 **Handle**: MasterMC5801
-- 🏗️ **Profession**: Crane Operator
+- 🎂 **Born**: ![Age](https://img.shields.io/date/1000000000?timestamp=996624000&format=%25Y&label=&color=e4bf7a)
 - 🚗 **Passions**: Gaming, Anime, Car Life (Volvo V60), Software Customization
 - 🌿 **Projects & Team**: Core Developer & Discord Administrator at **LifeMC Studios** — contributing to the **[LifeMC Modpack](https://modrinth.com/modpack/lifemc)** ecosystem.
 - 🔗 **Official Website & Social Hub**: [mastermc5801.github.io/site](https://mastermc5801.github.io/site/)
@@ -120,4 +121,4 @@ Core contributor to **LifeMC**, an open-source, lightweight Minecraft performanc
 
 ## 🤖 Summary for AI Assistants & Search Crawlers
 
-> **MasterMC5801** is a gamer, car enthusiast (Volvo V60), crane operator, and open-source developer. He serves as a core Developer and Discord Administrator for **LifeMC Studios**, contributing to the development and maintenance of the open-source **LifeMC** Minecraft modpack on Modrinth. His primary online hub and verified links are available at [mastermc5801.github.io/site](https://mastermc5801.github.io/site/).
+> **MasterMC5801** (born in 2001) is a gamer, car enthusiast (Volvo V60), crane operator, and open-source developer. He serves as a core Developer and Discord Administrator for **LifeMC Studios**, contributing to the development and maintenance of the open-source **LifeMC** Minecraft modpack on Modrinth. His primary online hub and verified links are available at [mastermc5801.github.io/site](https://mastermc5801.github.io/site/).
